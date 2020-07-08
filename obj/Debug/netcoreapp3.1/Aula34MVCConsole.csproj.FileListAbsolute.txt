@@ -1,0 +1,13 @@
+C:\Users\mtgat\Documents\Projetos\Aula34MVCConsole\bin\Debug\netcoreapp3.1\Aula34MVCConsole.exe
+C:\Users\mtgat\Documents\Projetos\Aula34MVCConsole\bin\Debug\netcoreapp3.1\Aula34MVCConsole.deps.json
+C:\Users\mtgat\Documents\Projetos\Aula34MVCConsole\bin\Debug\netcoreapp3.1\Aula34MVCConsole.runtimeconfig.json
+C:\Users\mtgat\Documents\Projetos\Aula34MVCConsole\bin\Debug\netcoreapp3.1\Aula34MVCConsole.runtimeconfig.dev.json
+C:\Users\mtgat\Documents\Projetos\Aula34MVCConsole\bin\Debug\netcoreapp3.1\Aula34MVCConsole.dll
+C:\Users\mtgat\Documents\Projetos\Aula34MVCConsole\bin\Debug\netcoreapp3.1\Aula34MVCConsole.pdb
+C:\Users\mtgat\Documents\Projetos\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.csprojAssemblyReference.cache
+C:\Users\mtgat\Documents\Projetos\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.csproj.CoreCompileInputs.cache
+C:\Users\mtgat\Documents\Projetos\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.AssemblyInfoInputs.cache
+C:\Users\mtgat\Documents\Projetos\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.AssemblyInfo.cs
+C:\Users\mtgat\Documents\Projetos\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.dll
+C:\Users\mtgat\Documents\Projetos\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.pdb
+C:\Users\mtgat\Documents\Projetos\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.genruntimeconfig.cache
